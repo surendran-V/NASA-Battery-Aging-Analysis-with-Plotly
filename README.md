@@ -7,7 +7,9 @@ This repository contains an analysis of the NASA Battery Dataset using interacti
 Batteries degrade over time, and analyzing their behavior can help identify trends and predict performance. Using the NASA Battery Dataset, this project:
 
 1.Visualizes resistance trends over time.
+
 2.Explores relationships between key parameters.
+
 3.Highlights individual battery performance and degradation patterns.
 
 ---
