@@ -27,7 +27,9 @@ The analysis reveals degradation trends, correlations, and anomalies.
 The NASA Battery Dataset is used for this project. It provides charge and discharge cycle data for multiple batteries.
 
 Steps to Download the Dataset
+
 1.Visit the NASA Prognostics Data Repository:[ NASA Battery Dataset](https://www.kaggle.com/datasets/patrickfleith/nasa-battery-dataset/data).
+
 2.Download the relevant dataset to your local machine.
 
 ---
